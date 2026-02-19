@@ -1,0 +1,16 @@
+{
+  "keys": [
+    {
+      "key": "DC-007-PRO",
+      "type": "permanent",
+      "device": "ALL"
+    },
+    {
+      "key": "TEST-123",
+      "type": "expired",
+      "start": "2026-02-01",
+      "end": "2026-03-01",
+      "device": "ALL"
+    }
+  ]
+}
